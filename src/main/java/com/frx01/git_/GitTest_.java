@@ -8,5 +8,6 @@ package com.frx01.git_;
 public class GitTest_ {
     public static void main(String[] args) {
         System.out.println("Hello git!");
+        System.out.println("Hello git!2");
     }
 }
